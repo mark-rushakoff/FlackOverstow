@@ -1,0 +1,8 @@
+Flack Overstow
+(c) 2010 Mark Rushakoff
+
+Creates quotes that you wouldn't otherwise hear from SO users by making random
+Markov chains from their recent posts (your choice of questions, answers, or
+comments).  Have fun!
+
+Run `flack.py --help` for usage information.
